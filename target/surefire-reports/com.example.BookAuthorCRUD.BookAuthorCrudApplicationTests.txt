@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.example.BookAuthorCRUD.BookAuthorCrudApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.978 s -- in com.example.BookAuthorCRUD.BookAuthorCrudApplicationTests
